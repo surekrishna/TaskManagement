@@ -1,0 +1,51 @@
+.assign_task{
+	padding: 4px 4px 4px 4px;
+    margin: 10px 10px 0 0;
+}
+.task_view{
+	padding: 4px 4px 4px 4px;
+}
+.assign_view{
+	text-align: center;
+    padding: 20% 0 0 0;
+}
+.assigntask_table{
+	padding: 2% 0 0 10%;
+}
+.assign_heading{
+	font-weight: bold;
+}
+#projectName{
+	height: 25px;
+	width: 16em;	
+}
+#taskViewProjectName{
+	height: 25px;
+	width: 16em;
+}
+#employeeList{
+	height: 70px;
+	width: 16em;	
+}
+#description,#startDate,#endDate{
+	width: 98%;
+}
+.successMsg{
+	display: block;
+	color: limegreen;
+    font-weight: bold;
+}
+.task_heading{
+	font-weight: bold;
+}
+.filter_project{
+	padding: 0 60px 0 0;
+}
+.employeeDetails{
+	margin: 5% 0 0 0;
+}
+.taskProjectName{
+	font-weight: bold;
+}
+#descriptionError,#startDateError,#endDateError,#projectNameError,#employeeListError{color:red;}
+.star{color:red;}
